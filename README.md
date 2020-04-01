@@ -1,6 +1,6 @@
 # File-Hamali
 
-## To Use:
+## Ready to use:
 
 ### 1. Download FileHamali.zip.
 ### 2. Extract the .exe file from the archive.

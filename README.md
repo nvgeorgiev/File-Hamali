@@ -2,7 +2,7 @@
 
 ## Summary:
 
-### Small desktop app for locating and copying large amount of files simultaneously from many directories and sub-directories into a custom folder.
+### Desktop app for locating and copying large amount of files simultaneously from many directories and sub-directories into a custom folder.
 
 
 
